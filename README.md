@@ -45,7 +45,7 @@ src="https://d3vsi0o2kzr5hx.cloudfront.net/2022/10/java.png" />
 
 ### 📫 Contact me via:
 
-<a href="https://www.facebook.com/HCodeC"><img align="left" alt="FB" width="50%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/640px-Facebook-icon-1.png" /></a>
+<a href="https://www.facebook.com/HCodeC"><img align="left" alt="FB" width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/640px-Facebook-icon-1.png" /></a>
   
 [website]: https://www.facebook.com/HCodeC
   
