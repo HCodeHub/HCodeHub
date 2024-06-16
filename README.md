@@ -38,7 +38,7 @@ src="https://d3vsi0o2kzr5hx.cloudfront.net/2022/10/java.png" />
 
 <!-- PROJECT:START -->
 - [Phần mềm Chấm Công Cá Nhân](https://www.facebook.com/photo/?fbid=3495965177298348&set=a.2338177719743772)
-- [Minesweeper](https://www.facebook.com/photo/?fbid=3586146531613545&set=pcb.3586149711613227)
+- [Minesweeper](https://hcodehub.github.io/Minesweeper/)
 - [ChickenFarm](https://hcodehub.github.io/ChickenFarm/)
 - [Chat Internet](https://hcodehub.github.io/Chat_Internet/)
 <!-- PROJECT:END -->
